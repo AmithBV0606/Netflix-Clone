@@ -10,7 +10,9 @@
 <h2>Images : </h2>
 
 <ol>
-  <li>
-    <div><img width="1072" alt="image" src="https://github.com/AmithBV0606/Netflix-UI-Clone/assets/154083629/c108f7c4-8b9f-41ce-8158-737f56efe76a"></div>
+  <div>
+  <li> 
+    <img width="1072" alt="image" src="https://github.com/AmithBV0606/Netflix-UI-Clone/assets/154083629/c108f7c4-8b9f-41ce-8158-737f56efe76a">
 </li>
+    </div>
 </ol>
